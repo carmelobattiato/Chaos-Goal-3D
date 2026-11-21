@@ -1,0 +1,6 @@
+{
+  "name": "Chaos Goal 3D - Calcio Multigiocatore",
+  "description": "Gioco di calcio 3D multiplayer online con punteggi casuali imprevedibili ad ogni gol, chat vocale, supporto mobile con levetta e mappe multiple.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
